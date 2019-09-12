@@ -1,3 +1,5 @@
+[![HackMD documents](http://localhost:3000/badge.svg)](http://localhost:3000/@yukai/Yukaii-codimd)
+
 CodiMD
 ===
 
